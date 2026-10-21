@@ -1,49 +1,72 @@
-<a href="https://descartideal.github.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img alt="笛卡尔似的梦 · 自由是遗忘的左伴随。" src="./assets/header-light.svg" width="100%">
-  </picture>
-</a>
+<p align="center">
+  <a href="https://wall.alphacoders.com/big.php?i=852686">
+    <img src="https://images2.alphacoders.com/852/thumb-1920-852686.jpg" width="100%" alt="白裙少女与蓝紫色星云 · illustration by ことコト">
+  </a>
+</p>
+
+<h1 align="center">✧ 笛卡尔似的梦 ✧</h1>
 
 <p align="center">
-  <a href="https://descartideal.github.io/">个人博客 ↗</a> &nbsp; · &nbsp;
-  <a href="https://descartideal.github.io/archive/">文章归档</a> &nbsp; · &nbsp;
-  <a href="https://descartideal.github.io/about/">关于我</a>
+  <sub>自由是遗忘的左伴随。</sub>
+</p>
+
+<p align="center">
+  <a href="https://descartideal.github.io/"><img src="https://img.shields.io/badge/Blog-个人博客-c9b8ed?style=for-the-badge&amp;labelColor=29263e" alt="个人博客"></a>
+  &nbsp;
+  <a href="https://descartideal.github.io/archive/"><img src="https://img.shields.io/badge/Journal-文字归档-b7d9ed?style=for-the-badge&amp;labelColor=29263e" alt="文章归档"></a>
+  &nbsp;
+  <a href="https://github.com/Descartideal?tab=repositories"><img src="https://img.shields.io/badge/Code-小小项目-e3bfdb?style=for-the-badge&amp;labelColor=29263e" alt="项目仓库"></a>
 </p>
 
 <br>
 
-### 你好，我是笛卡尔似的梦。
-
-在这里写代码，在博客里存放算法题解，也记录一些日常与思考。
-
-写下推导的过程，也留下一段生活的切片。
+<p align="center">⋆ ˚｡⋆୨୧˚ &nbsp; 代码、文字，还有日常。 &nbsp; ˚୨୧⋆｡˚ ⋆</p>
 
 <br>
 
-### 项目 / Selected work
+<table>
+<tr>
+<td width="65%" valign="top">
 
-| 项目 | 在做的事 |
-| :--- | :--- |
-| [**CCPC / ICPC VP 榜单** ↗](https://github.com/Descartideal/ccpc-vp-board) | 将 RankLand 榜单整理成可分享的单文件页面，重放比赛进程。 |
-| [**XCPC 群聊工具** ↗](https://github.com/Descartideal/astrbot_plugin_for_XCPC) | 基于 AstrBot 的插件分支，提供竞赛查询、账号绑定与 AC 播报。 |
-| [**GitHub Research at Scale** ↗](https://github.com/Descartideal/github-research-at-scale) | 面向大规模 GitHub 资料搜集的 Agent Skill，先筛选，再深读。 |
+### ☾ 最近在做
+
+[**CCPC / ICPC VP 榜单**](https://github.com/Descartideal/ccpc-vp-board)  
+把比赛进程装进一个可以分享的页面。
+
+[**XCPC 群聊工具**](https://github.com/Descartideal/astrbot_plugin_for_XCPC)  
+竞赛查询、账号绑定与 AC 播报。
+
+[**GitHub Research at Scale**](https://github.com/Descartideal/github-research-at-scale)  
+用于 GitHub 资料搜集的 Agent Skill。
+
+### ✎ 偶尔写字
+
+[追寻](https://descartideal.github.io/posts/seeking/) · [一个下午](https://descartideal.github.io/posts/an-afternoon/)  
+[洛谷 P4933 · 等差子序列计数](https://descartideal.github.io/posts/luogu-p4933/)
+
+</td>
+<td width="35%" align="center" valign="middle">
+  <a href="https://twitter.com/ushi_mt/status/1685219235843461120">
+    <img src="https://pbs.twimg.com/media/F2MZ9ZAbsAE4x5z.jpg" width="260" alt="ほどけた夜空にこぼれる星屑 · illustration by 丑山 雨">
+  </a>
+  <br>
+  <sub>✧ stardust &amp; daydreams ✧</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
-### 文字 / From the journal
+<p align="center">
+  <sub>✦ &nbsp; <a href="https://descartideal.github.io/">descartideal.github.io</a> &nbsp; ✦</sub>
+</p>
 
-**[追寻](https://descartideal.github.io/posts/seeking/)** &nbsp; <sub>记录 · 2026 / 02 / 05</sub>
+<details>
+<summary>Illustration credits ♡</summary>
 
-**[洛谷 P4933 · 等差子序列计数](https://descartideal.github.io/posts/luogu-p4933/)** &nbsp; <sub>算法题解 · 2026 / 01 / 23</sub>  
-按最后一项和公差分类，用 DP 与哈希表统计等差子序列。
+- 顶图：[ことコト · Celestial Cloud Maiden](https://wall.alphacoders.com/big.php?i=852686)
+- 侧图：[丑山 雨 · ほどけた夜空にこぼれる星屑（2020）](https://twitter.com/ushi_mt/status/1685219235843461120)
 
-**[一个下午](https://descartideal.github.io/posts/an-afternoon/)** &nbsp; <sub>随笔 · 2026 / 01 / 22</sub>  
-学期结束了。舍友下午六点离开，我去送他。
+插画版权归原画师所有，点击图片可查看来源。
 
-<br>
-
----
-
-<sub>笛卡尔似的梦 &nbsp; / &nbsp; [descartideal.github.io](https://descartideal.github.io/)</sub>
+</details>
