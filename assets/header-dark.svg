@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="324" viewBox="0 0 960 324" role="img" aria-labelledby="title desc">
+  <title id="title">笛卡尔似的梦 · Descartideal</title>
+  <desc id="desc">THOUGHTS, ALGORITHMS &amp; LIFE。自由是遗忘的左伴随。</desc>
+  <rect width="960" height="324" rx="3" fill="#151b20"/>
+  <g font-family="'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="44" y="58" fill="#a0bfd1" font-family="Georgia,serif" font-style="italic" font-size="38">d.</text>
+    <text x="90" y="48" fill="#e1e6e9" font-size="13" letter-spacing="2.1">DESCARTIDEAL</text>
+    <text x="90" y="66" fill="#96a1a8" font-size="8" letter-spacing="2.3">A PERSONAL JOURNAL</text>
+    <path d="M44 90H916" stroke="#333d44"/>
+    <text x="46" y="132" fill="#a0bfd1" font-size="10" letter-spacing="2.4">THOUGHTS, ALGORITHMS &amp; LIFE</text>
+    <text x="44" y="203" fill="#e1e6e9" font-family="'Noto Serif SC','Songti SC',SimSun,serif" font-size="46" letter-spacing="3">笛卡尔似的梦<tspan fill="#a0bfd1">.</tspan></text>
+    <text x="47" y="244" fill="#96a1a8" font-size="15" letter-spacing="2">自由是遗忘的左伴随。</text>
+    <path d="M44 278H916" stroke="#333d44"/>
+    <text x="46" y="303" fill="#96a1a8" font-size="9" letter-spacing="1.8">CODE / WORDS / EVERYDAY</text>
+    <text x="915" y="303" text-anchor="end" fill="#a0bfd1" font-size="9" letter-spacing="1.2">descartideal.github.io ↗</text>
+  </g>
+</svg>
