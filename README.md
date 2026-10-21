@@ -1,10 +1,9 @@
 # 笛卡尔似的梦
 
-自由是遗忘的左伴随。
+——自由是遗忘的左伴随。
 
-记录算法、写点工具，偶尔写一些日常。
 
-[Blog](https://descartideal.github.io/) · [Archive](https://descartideal.github.io/archive/) · [About](https://descartideal.github.io/about/)
+[Blog](https://descartideal.github.io/) · [Archive](https://descartideal.github.io/archive/)
 
 ### Projects
 
